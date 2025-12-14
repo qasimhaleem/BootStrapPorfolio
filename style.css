@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.hero{
+    background-image:linear-gradient(#c847f1,#380231);
+}
+.top-bar{
+    padding: 20px;
+
+}
+.top-bar img{
+    width: 130px;
+}
+.top-btn{
+    float: right;
+}
+.top-btn a{
+    margin: 0 8px;
+    padding: 8px 20px;
+    border-radius: 50px;
+    color: #fff;
+    text-decoration: none !important;
+  border: 2px solid #fff;
+}
+.top-btn a:hover{
+    background: #fff !important ;
+    color: #333 !important;
+}
+.hero h1{
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 12%;
+    letter-spacing: 3px;
+}
+.hero p{
+    color: #fff;
+}
+.hero.container{
+    margin-top: 13%;
+}
+.start-button{
+    background: transparent;
+    border: 2px solid #FFF;
+    color: #fff;
+    width: 140px;
+    height: 40px;
+    margin-top:30px ;
+    border-radius: 50px;
+}
+
+.home-img img{
+    width: 85px;
+    min-width: 350px;
+    margin-top:10% ;
+}
+.influence{
+    padding: 30px 0;
+    background: #efefef;
+
+}
+.influence .container{
+    margin-bottom: -200px !important;
+}
+.influence h1{
+    margin: 60px 0;
+    color: #555;
+}
+.img img{
+    width: 100%;
+    height: 100%;
+    
+}
+.person-detail{
+    background: #fff;
+    padding: 10px 0;
+    margin-bottom: 15px ;
+}
+.profile{
+    padding: 30px 0;
+    background-image:linear-gradient(#c847f1,#380231);
+}
+.profile-card{
+    border-radius: 10px ;
+    background: #fff;
+    box-shadow: 0 2px 40px 0 rgba(17,39,125,0.18);
+    margin-bottom: -360px !important;
+    margin-top: 370px;
+}
+.profile-detail{
+    padding: 40px;
+
+}
+.profile-detail h2{
+    color: #c200ff;
+    margin-bottom: 35px;
+}
+.followers span{
+    display: inline-block;
+    color: #c200ff;
+    margin: 35px 20px 35px 0;
+
+}
+.profile-detail h5,p{
+    color: #555;
+
+
+
+}
+.btn-follow{
+    background: #c200ff;
+    border: none;
+    color: #fff;
+    width: 130px;
+    height: 40px;
+    margin-top:54px ;
+    margin-bottom: 14px;
+    border-radius: 50px;    
+}
+
+.profile-img {
+    text-align: center;
+
+
+}
+.profile-img img{
+    width: 84%;
+    min-width: 350px;
+}
+
+
+.footer {
+    padding: 50px 0 20px ;
+    background:linear-gradient(#c847f1,#380231) ;
+    margin-top: 450px;
+}
+
+.store-icon img{
+    width: 150px;
+    margin: 0 10px 50px ; 
+}
+.fotter-menu a{
+    display: inline-block;
+    width: 120px;
+    color: #fff;
+    text-decoration:none !important ;
+    margin-bottom: 20px;
+}
+
+.footer p{
+    color: #fff;
+    font-size: 14px;
+    margin-top:20px ;
+}
+
+
+
+
+
+
+
